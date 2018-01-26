@@ -1,0 +1,3 @@
+http://gaokao.hnjy.com.cn->'~5.5.21-log~'
+http://www.qjjw.cn->'~5.5.44-MariaDB~'
+http://www.senmind.com->'~5.1.58-community~'
